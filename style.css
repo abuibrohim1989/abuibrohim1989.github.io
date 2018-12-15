@@ -1,0 +1,43 @@
+.first {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 36px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 0;
+}
+
+.third {
+     font-size: 20px;
+     margin-bottom: 0;
+}
+
+#header {
+     text-align: center;
+     margin-bottom: 32px;
+
+}
+
+.email {
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: blue;
+}
+
+#main {
+    text-align: left;
+}
+
+p{
+    font-size: 20px;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 64px;
+}
+
+.second{
+    font-size: 32px;
+}
